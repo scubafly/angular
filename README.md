@@ -36,4 +36,4 @@ The MDN (Mozilla Developer Network) offers nice lists of all properties and even
 Googling for YOUR_ELEMENT properties  or YOUR_ELEMENT events  should yield nice results.
   
 ### Angular 2 way binding
-using `[(ngModel)]="<propertyName>"` on a input field will change the property to the value of the field.
+using `[(ngModel)]="<propertyName>"` on a input field will change the property to the value of the field. But also will update the value of the html element if the property is changed somewhere else.
