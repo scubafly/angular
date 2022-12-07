@@ -15,3 +15,6 @@ project -> architecht -> build -> options -> styles:
               "src/styles.css"
             ],
 ```
+
+Run the project:
+`ng serve` and visit localhost:4200
