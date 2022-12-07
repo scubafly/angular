@@ -27,3 +27,5 @@ in html file like twig: {{ <propertyOrFunction> }} value must return a string li
 
 ### Event binding in a component:
 (click)="<functionName()>"
+
+### Console.log the element to see the properties and events to bind to.
