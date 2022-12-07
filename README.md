@@ -18,3 +18,9 @@ project -> architecht -> build -> options -> styles:
 
 Run the project:
 `ng serve` and visit localhost:4200
+
+String Interpolation
+in html file like twig: {{ <propertyOrFunction> }} value must return a string like output. 
+
+Property binding in a component:
+[disabled]="<propertyname>"
