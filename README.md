@@ -34,3 +34,6 @@ Console.log the element to see the properties and events to bind to.
 The MDN (Mozilla Developer Network) offers nice lists of all properties and events of the element you're interested in. 
   
 Googling for YOUR_ELEMENT properties  or YOUR_ELEMENT events  should yield nice results.
+  
+### Angular 2 way binding
+using `[(ngModel)]="<propertyName>"` on a input field will change the property to the value of the field.
