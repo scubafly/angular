@@ -28,4 +28,9 @@ in html file like twig: {{ <propertyOrFunction> }} value must return a string li
 ### Event binding in a component:
 (click)="<functionName()>"
 
-### Console.log the element to see the properties and events to bind to.
+### How to know what events and properties to bind to.
+Console.log the element to see the properties and events to bind to.
+
+The MDN (Mozilla Developer Network) offers nice lists of all properties and events of the element you're interested in. 
+  
+Googling for YOUR_ELEMENT properties  or YOUR_ELEMENT events  should yield nice results.
