@@ -24,3 +24,6 @@ in html file like twig: {{ <propertyOrFunction> }} value must return a string li
 
 ### Property binding in a component:
 [disabled]="<propertyname>"
+
+### Event binding in a component:
+(click)="<functionName()>"
