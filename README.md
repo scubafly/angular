@@ -5,7 +5,7 @@ how to set up an angular project
 `ng new <project name>`
 
 ## Add bootstrap:
-`npm install --save bootstrap@3
+`npm install --save bootstrap@3`
 
 ## Add bootstrap to the angular.json
 project -> architecht -> build -> options -> styles:
